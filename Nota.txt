@@ -1,0 +1,2 @@
+1.- Ejecutar un simulador server local para que se cargue el archivo info.json
+2.- Para este caso en particular se ejecuto el Go Live del editor Visual Studio Code
